@@ -40,7 +40,6 @@
             padding-top: 5px;
             height: 7%;
             width: 7%;
-
         }
 
         .right-nav {
@@ -321,4 +320,5 @@
                 grid-template-columns: 1fr;
             }
         }
+
     </style>
