@@ -40,6 +40,7 @@
             padding-top: 5px;
             height: 7%;
             width: 7%;
+
         }
 
         .right-nav {
@@ -48,7 +49,7 @@
             /* Align text vertically with image */
             gap: 10px;
             /* Space between image and text */
-        }
+        }   
 
         .logo {
 
@@ -320,5 +321,4 @@
                 grid-template-columns: 1fr;
             }
         }
-
     </style>
